@@ -1,0 +1,41 @@
+.countbutton{
+    
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-color: aliceblue;
+    
+    
+}
+.countbutton:hover{
+  background-color: rgb(119, 119, 185);
+}
+.resetbutton{
+  background-color: #ca3d3d;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-color: aliceblue;
+  width: 150px;
+}
+button:hover{
+  background-color: rgb(61, 34, 21);
+}
+
+.count{
+    font-size: 100px;
+}
+
